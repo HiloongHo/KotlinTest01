@@ -1,6 +1,6 @@
 fun main() {
-//    println(isLeapYear(2017))
-//    println(isLeapYear(2020))
+    println(isLeapYear(2017))
+    println(isLeapYear(2020))
     casesWhen(1)
     casesWhen(9)
 
